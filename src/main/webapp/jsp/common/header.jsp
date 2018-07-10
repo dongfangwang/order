@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    家常菜家常菜家常菜
+                   ceshifabu
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
